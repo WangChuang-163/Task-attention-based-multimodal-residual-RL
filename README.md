@@ -1,6 +1,6 @@
 # Task-attention-based-multimodal-residual-RL
 
-#### Project Website: https://github.com/WilliamSCUT/Yolov8-Segnmentation
+#### Project Website: https://github.com/WangChuang-163/Task-attention-based-multimodal-residual-RL
 
 This project mainly includes the implementation of a robotic assembly policy based on multimodal fusion and residual reinforcement learning.
 
